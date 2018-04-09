@@ -48,7 +48,7 @@ git pull
 ## Usage
 
 * Go to Admin -> Settings -> Astrobanner
-* Enter your Astrobanner site ID after you sign up with us on <a href="https://astrobanner.com" target="_blank">Astrobanner</a>
+* Enter your Astrobanner site ID after you sign up with us on <a href="https://astrobanner.com" rel="asdf" target="_blank">Astrobanner</a>
 * Remember to watch extra whitespace at the beginning and end of the id field.
 
 * You can use the 'astrobanner_through_trust_level' to disable ads for users above a certain trust level. 
