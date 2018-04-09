@@ -1,0 +1,4 @@
+en:
+  site_settings: 
+    astrobanner_site_id: 'Your Astrobanner.com site id after you have signed up and registered your domain.'
+    astrobanner_through_trust_level: 'Show ads to users through trust level (0 = to not logged in users only ... 4 = to all users)'

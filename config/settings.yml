@@ -1,0 +1,9 @@
+astrobanner_plugin:
+  astrobanner_site_id:
+    client: true
+    default: ''
+  astrobanner_through_trust_level:
+    client: true
+    default: 4
+    enum: 'TrustLevelSetting'
+
