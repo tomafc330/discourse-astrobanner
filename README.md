@@ -12,6 +12,8 @@ Astrobanner will help you with getting much more revenue than just Adsense. Bran
 - Custom CPM (Cost Per Impression) -- we make sure the brand has paid prior to starting the campaign 
 - Metrics -- we track the CPMs, the clickthroughs, as well as conversions (via a tracking pixel that the advertiser will use). 
 
+![](https://static_garage.s3.amazonaws.com/Admin_-_Tommy__2018-04-08_20-57-15.png)
+
 ## Installation
 
 * Supported Discourse version: v1.3 and up
