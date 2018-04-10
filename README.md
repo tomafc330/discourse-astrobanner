@@ -3,14 +3,23 @@
 Astrobanner.com plugin for Discourse the forum software
 
 ## Introduction
-What is Astrobanner.com? We are a banner advertising / campaign management solution. If you have owned a Discourse forum, chances are there are brands who have reached out to you to ask for placeing banner ads on your forum. Unfortunately there isn't a solution out there currently that will let advertisers place ads on your site with ease. There is the Adsense plugin but the ROI on Adsense would be much lower than a custom banner advertising campaign.
 
-Astrobanner will help you with getting much more revenue than just Adsense. Brands can upload banner images and schedule a campaign on the platform, and Astrobanner will collect the payment on your behalf. In addition, these are the features we support:
+What is astrobanner.com? We are a banner advertising / campaign management solution. If you have owned a Discourse forum, you've likely had brands reach out to you to place banner ads on your forum. Unfortunately, there isn't currently a solution available that will let you work with advertisers with ease. An Adsense plugin does exist but it doesn’t allow you to place your own banners and only places ads from the Adsense network. However, the ROI that you receive from the Adsense network is significantly lower than that which you would receive from a custom banner advertisement.
 
-- Easy Installation -- just sign up with us and install the plugin and enter your site id. We will take care of the rest for you
-- Scheduling of campaigns -- we make sure you show 
-- Custom CPM (Cost Per Impression) -- we make sure the brand has paid prior to starting the campaign 
-- Metrics -- we track the CPMs, the clickthroughs, as well as conversions (via a tracking pixel that the advertiser will use). 
+We experienced this exact same problem, and when we realized how much revenue we were losing by utilizing Adsense rather than working with advertisers and placing custom ads on our site (which we had worked so hard to build up!), we wanted to solve this painful problem for other people. 
+
+Astrobanner will help you easily generate 5x-10x or more what you would generate from Adsense. Why do all the hard work of building up a great site just to let Google get all your profits? Astrobanner lets site owners upload banner images and schedule campaigns on the platform, all in one easy to use dashboard. Astrobanner will even collect the payment on your behalf from the advertiser, then send you payment automatically, so you don't need to worry about collecting payments, and can focus on the important things - like growing your site even more! 
+
+If that isn't enough, we have some even more amazing features that Astrobanner offers:
+ - Easy Installation -- just sign up with us and install the plugin and enter your site id. We will take care of the rest for you!
+ - Scheduling of campaigns -- schedule your campaigns automatically with the date and time you'd like the campaign to start and end so you optimize running campaign after campaign non-stop and effortlessly.
+ - A/B test different banners -- impress your advertising partners and give them the ability to test different banners so they can get more conversions and run multiple advertising campaigns on your site.
+ - Targeted custom views -- set parameters based on geographical area so that your advertising partners can run campaigns to customers that are most relevant to their business. This also allows you to optimize your banner space so you can show different ads to customers who don't fall within certain parameters. 
+ - Custom CPM (Cost Per Impression) -- determine your CPM by unique pageviews or all pageviews so you can create custom campaign pricing for your advertising partners.
+ - Clickthrough tracking -- track how many clicks your campaign generates for your advertising partners as one measure of ROI.
+ - Conversions -- we provide the ability for you to track conversions that your advertising partners get from their campaign with you so you can prove the awesome ROI of your campaigns and schedule successful campaign after campaign!
+ - With all these amazing features, you can truly run a customized and most importantly, value generating, advertising campaign with your partners. Don't wait - sign up now so you can start optimizing your site for successful banner advertising campaigns! 
+
 
 ![](https://static_garage.s3.amazonaws.com/Admin_-_Tommy__2018-04-08_20-57-15.png)
 
