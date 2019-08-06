@@ -1,6 +1,6 @@
 # name: Astro Banner Discourse Plugin
 # about: Adds Custom Banner ads from AstroBanner.com
-# version: 1.0.8
+# version: 1.1.0
 # author: Astrobanner.com
 # url: https://www.github.com/tommytcchan/discourse-astrobanner
 # Supported Discourse version: v1.3 and up
