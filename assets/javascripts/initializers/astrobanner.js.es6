@@ -30,7 +30,7 @@ export default {
     const publisherCode = (siteSettings.astrobanner_site_id || '').trim();
 
     if (publisherCode.length) {
-      withPluginApi('0.1', initializeAstrobanner, {noApi: oldPluginCode});
+      withPluginApi('0.2', initializeAstrobanner, {noApi: oldPluginCode});
     }
   }
 };
